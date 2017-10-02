@@ -1,2 +1,0 @@
-# BingSpeechAPISample
-Bing SpeechAPI Sample
